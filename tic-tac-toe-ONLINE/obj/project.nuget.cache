@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZxtEKY98QJU8A1dwkqIj6K9DJI7yuftIqHoB/7aDzYsBGxFdtkyigvDd82HTpii3h8UGuI3YzZvaSBzUScapGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janek\\OneDrive\\Dokumenty\\School\\Programowanie desktopowe\\Projekt 8\\tic-tac-toe-ONLINE\\tic-tac-toe-ONLINE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.2\\microsoft.netcore.app.host.win-x64.6.0.2.nupkg.sha512",
+    "C:\\Users\\janek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.2\\microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512",
+    "C:\\Users\\janek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.2\\microsoft.windowsdesktop.app.ref.6.0.2.nupkg.sha512",
+    "C:\\Users\\janek\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.2\\microsoft.netcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

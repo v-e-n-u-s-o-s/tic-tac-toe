@@ -1,0 +1,4 @@
+C:\Users\janek\OneDrive\Dokumenty\School\Programowanie desktopowe\Projekt 8\tic-tac-toe-API\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
+C:\Users\janek\OneDrive\Dokumenty\School\Programowanie desktopowe\Projekt 8\tic-tac-toe-API\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
+C:\Users\janek\OneDrive\Dokumenty\School\Programowanie desktopowe\Projekt 8\tic-tac-toe-API\obj\Release\net6.0\win-x86\PubTmp\Out\tic-tac-toe-API.pdb
+C:\Users\janek\OneDrive\Dokumenty\School\Programowanie desktopowe\Projekt 8\tic-tac-toe-API\obj\Release\net6.0\win-x86\PubTmp\Out\tic-tac-toe-API.exe
